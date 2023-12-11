@@ -21,7 +21,7 @@ export const About = () => {
             <img src="./mysql.svg" alt="MySQL logo" />
             <img src="./python.svg" alt="Python logo" />
             <img src="./docker.svg" alt="Docker logo" />
-            <img src="./github.svg" alt="Github logo" />
+            <img src="./git.svg" alt="Git logo" />
           </div>
         </div>
         <div className="about__me__grid">

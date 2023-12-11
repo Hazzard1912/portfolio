@@ -104,7 +104,7 @@
 
 .feature:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 20px var(--color-accent-1);
+  box-shadow: 0 0 20px var(--color-primary);
 }
 
 @media screen and (max-width: 700px) {

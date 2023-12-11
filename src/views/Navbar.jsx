@@ -52,24 +52,22 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#about" className="nav__link" onClick={handleClick}>
-            {t("Navbar.About")}
+              {t("Navbar.About")}
             </a>
           </li>
           <li>
             <a href="#projects" className="nav__link" onClick={handleClick}>
-            {t("Navbar.Projects")}
+              {t("Navbar.Projects")}
             </a>
           </li>
           <li>
             <a href="#contact" className="nav__link" onClick={handleClick}>
-            {t("Navbar.Contact")}
+              {t("Navbar.Contact")}
             </a>
           </li>
           <div className="menu__end">
-            <h2>
-            {t("Navbar.Location")}
-            </h2>
-            <p>Santiago de Cali, Colombia</p>
+            <h2>{t("Navbar.Location")}</h2>
+            <p>Santiago de Cali, Colombia.</p>
           </div>
         </ul>
       </nav>
