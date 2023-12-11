@@ -19,7 +19,7 @@ export const LanguageSwitcher = () => {
           className="language__button"
           onClick={() => changeLanguage("es")}
         >
-          <img src="/es.svg" alt="Spanish" />
+          <img src="./es.svg" alt="Spanish" />
         </button>
       )}
       {currentLanguage !== "en" && (
@@ -27,7 +27,7 @@ export const LanguageSwitcher = () => {
           className="language__button"
           onClick={() => changeLanguage("en")}
         >
-          <img src="/en.svg" alt="English" />
+          <img src="./en.svg" alt="English" />
         </button>
       )}
     </div>

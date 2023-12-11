@@ -21,7 +21,7 @@ export const Navbar = () => {
 
       <div className="nav__logo">
         <a href="#">
-          <img src="/logo.png" alt="Logo" className="logo__item" />
+          <img src="./logo.png" alt="Logo" className="logo__item" />
         </a>
       </div>
 
