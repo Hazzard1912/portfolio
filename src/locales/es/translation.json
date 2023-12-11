@@ -1,0 +1,49 @@
+{
+  "Navbar": {
+    "Home": "Inicio",
+    "About": "Sobre mí",
+    "Projects": "Proyectos",
+    "Contact": "Contacto",
+    "Location": "Ubicación",
+    "Close": "Cerrar"
+  },
+  "HeroTitle": "Transformando ideas en realidad a través del desarrollo web",
+  "HeroButton": "Ver CV",
+  "AboutTitle": "Hola, soy Jhonnier y abordo el diseño web de una manera integral.",
+  "AboutDesc": "Soy un desarrollador de software con experiencia en desarrollo web. He trabajado con Angular, React, Node, Express, MongoDB, MySQL, Python, Docker, entre otros. Me apasiona aprender nuevas tecnologías y aplicarlas para resolver problemas.",
+  "AboutMe": "Sobre mí",
+  "Feature1_title": "Aprendizaje Continuo",
+  "Feature1_desc": "Siempre estoy entusiasmado por aprender nuevas tecnologías y aplicarlas de manera creativa para resolver desafíos y mejorar mis habilidades constantemente.",
+  "Feature2_title": "Trabajo en equipo",
+  "Feature2_desc": "Me encuentro siempre enfocado en colaborar efectivamente y aprender de mis compañeros para lograr resultados excepcionales.",
+  "Feature3_title": "Pasión por la programación",
+  "Feature3_desc": "Mi fascinación por la programación me impulsa a buscar constantemente formas de perfeccionar mis habilidades y aprender nuevas tecnologías.",
+  "Project1_title": "Domestic App",
+  "Project1_desc": "Aplicacion web de contratación de servicios domesticos Proyecto universitario",
+  "Project1_button": "Proyecto en desarrollo",
+  "Project2_desc": "App de busqueda de gifs, utilizando la API de Giphy. Uso de localstorage para llevar un historial de búsqueda. De las primeras apps que desarrollé",
+  "Project_button": "Ver proyecto",
+  "Project3_title": "Paises App",
+  "Project3_desc": "Aplicación que muestra información de paises, utilizando la API de RestCountries. Cuadro de busqueda que ofrece sugerencias de paises. Reutilización de componentes.",
+  "Project4_desc": "Aplicación web de busqueda de videojuegos. Uso de la API de RAWG. Uso de PrimeNg para los componentes. Una de las primeras apps que desarrollé con la finalidad de aprender Angular.",
+  "Project5_title": "Hosting de imagenes App",
+  "Project5_desc": "Aplicación que permite subir imagenes a un servidor y tener un album de imagenes privado. Uso de JWT para autenticación. Uso de Cloudinary para almacenar las imagenes. Uso de Bcrypt para encriptar contraseñas. No disponible actualmente dado que tuve que bajar el servidor por cuestiones de costos.",
+  "Project5_button": "No disponible",
+  "ContactTitle": "Ponte en contacto!",
+  "Form": {
+    "Name": "Nombre",
+    "Email": "Correo",
+    "Message": "Mensaje",
+    "MessagePlaceholder": "Escribe tu mensaje aquí...",
+    "Send": "Enviar"
+  },
+  "Yup": {
+    "NameRequired": "Requerido *",
+    "NameInvalid": "Ingresa un nombre válido *",
+    "EmailRequired": "Ingresa un correo para poder contactarte *",
+    "EmailInvalid": "Dirección de correo inválida *",
+    "MessageRequired": "No olvides escribir tu mensaje!"
+  },
+  "FooterDesc": "Desarrollador de software expecializado en desarrollo web. De Cali, Colombia.",
+  "FooterTitle": "Contacto"
+}

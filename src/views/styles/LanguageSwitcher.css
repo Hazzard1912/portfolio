@@ -1,0 +1,26 @@
+.language__switcher {
+  position: fixed;
+  z-index: 1000;
+  top: 6rem;
+  right: 1rem;
+}
+
+.language__button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+}
+
+.language__button img {
+  height: 64px;
+  width: 64px;
+  opacity: 0.5;
+  transition: all 0.3s ease-in-out;
+}
+
+.language__button:hover img {
+  opacity: 1;
+  transform: scale(1.1);
+}

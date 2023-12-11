@@ -1,0 +1,49 @@
+{
+  "Navbar": {
+    "Home": "Home",
+    "About": "About",
+    "Projects": "Projects",
+    "Contact": "Contact",
+    "Location": "Location",
+    "Close": "Close"
+  },
+  "HeroTitle": "Turning ideas into reality through web development",
+  "HeroButton": "Download CV",
+  "AboutTitle": "Hello, I'm Jhonnier, and I approach web design in a comprehensive way.",
+  "AboutDesc": "I am a software developer with experience in web development. I have worked with Angular, React, Node, Express, MongoDB, MySQL, Python, Docker, among others. I am passionate about learning new technologies and applying them to solve problems.",
+  "AboutMe": "About me",
+  "Feature1_title": "Continuous Learning",
+  "Feature1_desc": "I am always excited to learn new technologies and creatively apply them to tackle challenges and continually enhance my skills.",
+  "Feature2_title": "Teamwork",
+  "Feature2_desc": "I am always focused on collaborating effectively and learning from my peers to achieve outstanding results.",
+  "Feature3_title": "Passion for Programming",
+  "Feature3_desc": "My fascination with programming drives me to constantly seek ways to refine my skills and learn new technologies.",
+  "Project1_title": "Domestic App",
+  "Project1_desc": "Web application for hiring domestic services - University project",
+  "Project1_button": "Project in progress",
+  "Project2_desc": "GIF search app using the Giphy API. Utilizes local storage to keep a search history. One of the first apps I developed.",
+  "Project_button": "View project",
+  "Project3_title": "Countries App",
+  "Project3_desc": "Application displaying information about countries, using the RestCountries API. Search box with country suggestions. Component reuse.",
+  "Project4_desc": "Web application for searching video games. Uses the RAWG API. Uses PrimeNg for components. One of the first apps I developed to learn Angular.",
+  "Project5_title": "Image Hosting App",
+  "Project5_desc": "Application that allows uploading images to a server and having a private image album. Uses JWT for authentication. Uses Cloudinary to store images. Uses Bcrypt to encrypt passwords. Currently unavailable as I had to take down the server due to cost issues.",
+  "Project5_button": "Not available",
+  "ContactTitle": "Get in touch!",
+  "Form": {
+    "Name": "Name",
+    "Email": "Email",
+    "Message": "Message",
+    "MessagePlaceholder": "Write your message here...",
+    "Send": "Send"
+  },
+  "Yup": {
+    "NameRequired": "Required *",
+    "NameInvalid": "Enter a valid name *",
+    "EmailRequired": "Enter an email address to contact you *",
+    "EmailInvalid": "Invalid email address *",
+    "MessageRequired": "Don't forget to write your message!"
+  },
+  "FooterDesc": "Software developer specialized in web development. From Cali, Colombia.",
+  "FooterTitle": "Contact"
+}
